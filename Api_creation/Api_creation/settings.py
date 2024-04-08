@@ -78,11 +78,11 @@ WSGI_APPLICATION = 'Api_creation.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'postgres',
-        'USER': 'postgres',
-        'PASSWORD': '8012437667',
-        'HOST': 'localhost',  
-        'PORT': '5432',       
+        'NAME': '*****',
+        'USER': '****',
+        'PASSWORD': '***',
+        'HOST': '*****',  
+        'PORT': '****',       
     }
 }
 
